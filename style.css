@@ -2,6 +2,6 @@ body {
 text-align: center;
 }
 
-em.strong{
+em,strong{
     color:blueviolet;
 }
